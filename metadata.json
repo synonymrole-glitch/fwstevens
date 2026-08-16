@@ -1,0 +1,6 @@
+{
+  "name": "FaerieLens Portfolio",
+  "description": "A soft, whimsical fairy-and-bird themed photography portfolio website builder powered by GitHub repositories, featuring direct photo editing, custom themes, embedded Bandcamp audio, YouTube multimedia showcases, inquiry booking, and social sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
